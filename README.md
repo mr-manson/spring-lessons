@@ -49,6 +49,7 @@ public void setName(String name) {
 
 <img alt="spring_logo" src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" width="300"/>
 <img alt="hibernate_logo" src="https://cdn.worldvectorlogo.com/logos/hibernate-1.svg" width="300"/>
+<img alt="mysql_logo" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="300"/>
 
 <h2><i>Header 2</i></h2>
 <a>111</a>
