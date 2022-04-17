@@ -48,7 +48,7 @@ public void setName(String name) {
 [ШИЛЬДИКИ](shields.io)
 
 <img alt="spring_logo" src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" width="300"/>
-<img height="200" src="https://cdn.dribbble.com/users/594253/screenshots/4065612/media/c9a31ca3c52488917042c39d5028f6b2.gif" width="300"/>
+<img alt="hibernate_logo" src="https://cdn.worldvectorlogo.com/logos/hibernate-1.svg" width="300"/>
 
 <h2><i>Header 2</i></h2>
 <a>111</a>
